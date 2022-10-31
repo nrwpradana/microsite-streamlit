@@ -16,10 +16,10 @@ icon_size = 20
 #st_button('youtube', 'https://youtube.com/dataprofessor', 'Data Professor YouTube channel', icon_size)
 #st_button('youtube', 'https://youtube.com/codingprofessor', 'Coding Professor YouTube channel', icon_size)
 #st_button('medium', 'https://data-professor.medium.com/', 'Read my Blogs', icon_size)
-st_button('github', 'https://github.com/nrwpradana', 'Check my Github', icon_size)
-st_button('linkedin', 'https://www.linkedin.com/in/nadhiar-ridho-wahyu-pradana/', 'Follow me on LinkedIn', icon_size)
-st_button('newsletter', 'mailto:nadhiar11@gmail.com', 'Mail me', icon_size)
-st_button('projector', 'https://public.tableau.com/app/profile/nadhiar', 'See my Tableau puclic', icon_size)
+st_button('github', 'https://github.com/nrwpradana', ' Check my Github', icon_size)
+st_button('linkedin', 'https://www.linkedin.com/in/nadhiar-ridho-wahyu-pradana/', ' Follow me on LinkedIn', icon_size)
+st_button('newsletter', 'mailto:nadhiar11@gmail.com', ' Mail me', icon_size)
+st_button('projector', 'https://public.tableau.com/app/profile/nadhiar', ' See my Tableau puclic', icon_size)
 
 st.info('Check Latest Project Here')
 
