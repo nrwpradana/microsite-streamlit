@@ -20,4 +20,7 @@ st_button('github', 'https://github.com/nrwpradana', 'Check my Github', icon_siz
 st_button('linkedin', 'https://www.linkedin.com/in/nadhiar-ridho-wahyu-pradana/', 'Follow me on LinkedIn', icon_size)
 st_button('newsletter', 'mailto:nadhiar11@gmail.com', 'Mail me', icon_size)
 #st_button('cup', 'https://www.buymeacoffee.com/dataprofessor/', 'Buy me a Coffee', icon_size)
-st.button('project1', 'https://nrwpradana-krisis-pangan-app-nqc42o.streamlitapp.com/', '[Project] Tetris Capstone Project', icon_size)
+
+st.info('Check Latest Project Here')
+
+st_button('project1','https://nrwpradana-krisis-pangan-app-nqc42o.streamlitapp.com/','Tetris Capstone Project', icon_size)
