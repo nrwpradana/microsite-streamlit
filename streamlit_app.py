@@ -23,4 +23,4 @@ st_button('newsletter', 'mailto:nadhiar11@gmail.com', 'Mail me', icon_size)
 
 st.info('Check Latest Projecr Here')
 
-st.button('web','https://nrwpradana-krisis-pangan-app-nqc42o.streamlitapp.com/','Tetris Capstone Project', icon_size)
+st.button('project1','https://nrwpradana-krisis-pangan-app-nqc42o.streamlitapp.com/','Tetris Capstone Project', icon_size)
