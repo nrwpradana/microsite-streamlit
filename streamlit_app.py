@@ -21,6 +21,6 @@ st_button('linkedin', 'https://www.linkedin.com/in/nadhiar-ridho-wahyu-pradana/'
 st_button('newsletter', 'mailto:nadhiar11@gmail.com', 'Mail me', icon_size)
 #st_button('cup', 'https://www.buymeacoffee.com/dataprofessor/', 'Buy me a Coffee', icon_size)
 
-st.info('Check Latest Projecr Here')
+st.info('Check Latest Project Here')
 
 st.button('project1','https://nrwpradana-krisis-pangan-app-nqc42o.streamlitapp.com/','Tetris Capstone Project', icon_size)
