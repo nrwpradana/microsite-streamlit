@@ -2,7 +2,7 @@ import streamlit as st
 from st_functions import st_button, load_css
 from PIL import Image
 
-st.set_page_config(page_title='NRWP', page_icon = "😎")
+st.set_page_config(page_icon = "😎")
 
 load_css()
 
