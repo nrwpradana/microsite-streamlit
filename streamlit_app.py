@@ -2,9 +2,9 @@ import streamlit as st
 from st_functions import st_button, load_css
 from PIL import Image
 
-load_css()
-
 st.set_page_config(page_title='NRWP', page_icon = "😎")
+
+load_css()
 
 col1, col2, col3 = st.columns(3)
 col2.image(Image.open('Picture1.png'))
