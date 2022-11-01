@@ -2,8 +2,6 @@ import streamlit as st
 from st_functions import st_button, load_css
 from PIL import Image
 
-st.set_page_config(page_title='Krisis Pangan 2022', page_icon = "🌽", layout = 'wide', initial_sidebar_state = 'auto')
-
 load_css()
 
 col1, col2, col3 = st.columns(3)
