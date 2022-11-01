@@ -15,3 +15,4 @@ icon_size = 25
 
 st_button('github', 'https://github.com/nrwpradana', ' Check my Github', icon_size)
 st_button('linkedin', 'https://www.linkedin.com/in/nadhiar-ridho-wahyu-pradana/', ' Follow me on LinkedIn', icon_size)
+st_button('projector', 'https://www.linkedin.com/in/nadhiar-ridho-wahyu-pradana/', ' See my Tableau Public', icon_size)
